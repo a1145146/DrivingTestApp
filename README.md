@@ -1,2 +1,3 @@
 # DrivingTestApp
-A Flutter app for simulating driving test practice.
+
+This is a Flutter project for managing driving tests.
